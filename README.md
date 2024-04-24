@@ -35,10 +35,11 @@ Data was extracted from csv sourcefile, cleaned and processed to produce univari
 - Evaluating the results achieved with a confusion matrix and also using TPR, FPR, FNR AND TNR  for each price category and the whole matrix itself.
   
 ### Random Forest
+- Using variables with high correlation such as Brand, RAM, Internal storage and Resolution XY and applying random forest to train the model to predict price category
+- Evaluating the results achieved with a confusion matrix and also using TPR, FPR, FNR AND TNR  for each price category and the whole matrix itself.
 
 ### Dataset
 Contains source file of dataset [ndtv_data_final.csv](/Dataset/ndtv_data_final.csv)
 
 
 <!-- This content will not appear in the rendered Markdown -->
-<!-- [Contribution guidelines for this project](docs/CONTRIBUTING.md) -->
