@@ -9,7 +9,7 @@ Our project focuses on studying the factors that contribute to mobile phone pric
 2. [Linear Regression]()
 3. [Neural Network]()
 4. [Random Forest]()
-5. [Dataset]()
+5. [Dataset](/Dataset/)
 
 ### Exploratory Data Analysis
 Data was extracted from csv sourcefile, cleaned and processed to produce univariate, bivariate analysis as well as some correlation calculations to try to identify parameters that can be used to tune Price Prediction Models.
@@ -21,7 +21,7 @@ Data was extracted from csv sourcefile, cleaned and processed to produce univari
 ### Random Forest
 
 ### Dataset
-Contains source file of dataset [ndtv_data_final.csv]()
+Contains source file of dataset [ndtv_data_final.csv](/Dataset/ndtv_data_final.csv)
 
 
 <!-- This content will not appear in the rendered Markdown -->
