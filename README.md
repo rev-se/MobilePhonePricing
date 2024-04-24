@@ -15,16 +15,19 @@ Our project focuses on studying the factors that contribute to mobile phone pric
 - tabulate
 
 ## Contents
-1. [Exploratory Data Analysis]()
-2. [Linear Regression]()
-3. [Neural Network]()
-4. [Random Forest]()
+1. [Exploratory Data Analysis](/Extraction_And_EDA.ipynb)
+2. [Linear Regression](/Linear Regression.ipynb)
+3. [Neural Network](/Implementation_of_NN.ipynb)
+4. [Random Forest](/Random Forest Implementation.ipynb)
 5. [Dataset](/Dataset/)
 
 ### Exploratory Data Analysis
 Data was extracted from csv sourcefile, cleaned and processed to produce univariate, bivariate analysis as well as some correlation calculations to try to identify parameters that can be used to tune Price Prediction Models.
 
 ### Linear Regression
+- A study of bivariate models - how we can model the effect of Internal Memory (MB) & Storage (GB) on price
+- A study of multivariate modelling - adding predictors, Internal Memory (MB) & Storage (GB) & Resolution_X*Y into 1 model
+- Analysis of Goodness of Fit and Error for respective Models
 
 ### Neural Network
 
