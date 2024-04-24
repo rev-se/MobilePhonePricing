@@ -30,7 +30,10 @@ Data was extracted from csv sourcefile, cleaned and processed to produce univari
 - Analysis of Goodness of Fit and Error for respective Models
 
 ### Neural Network
-
+- Using variables with high correlation such as Brand, Ram, Internal storage and Resolution XY to train the model to predict price category
+- Using Neural network to learn and predict the price category
+- Evaluating the results achieved with a confusion matrix and also using TPR, FPR, FNR AND TNR  for each price category and the whole matrix itself.
+  
 ### Random Forest
 
 ### Dataset
