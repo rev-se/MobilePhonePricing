@@ -16,9 +16,9 @@ Our project focuses on studying the factors that contribute to mobile phone pric
 
 ## Contents
 1. [Exploratory Data Analysis](/Extraction_And_EDA.ipynb)
-2. [Linear Regression](/Linear Regression.ipynb)
+2. [Linear Regression](/LinearRegression.ipynb)
 3. [Neural Network](/Implementation_of_NN.ipynb)
-4. [Random Forest](/Random Forest Implementation.ipynb)
+4. [Random Forest](/RandomForestImplementation.ipynb)
 5. [Dataset](/Dataset/)
 
 ### Exploratory Data Analysis
